@@ -11,8 +11,8 @@
   {
     "id": 1,
     "description": "OctoHedz Test",
-    "external_url": "https://ipfs.io/ipfs/QmTwCSDHwXtBNK3pQwbPcwKT33L3bSwRLmoNxn7D3uoTgj?filename=F1.jpg",
-    "image": "https://ipfs.io/ipfs/QmTwCSDHwXtBNK3pQwbPcwKT33L3bSwRLmoNxn7D3uoTgj?filename=F1.jpg",
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmTwCSDHwXtBNK3pQwbPcwKT33L3bSwRLmoNxn7D3uoTgj",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTwCSDHwXtBNK3pQwbPcwKT33L3bSwRLmoNxn7D3uoTgj",
     "name": "OctoHedz #2"
   },
   {
