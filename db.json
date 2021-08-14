@@ -3,10 +3,12 @@
         
       {
           "id":  0,
-       "description": "OctoHedz",
-       "external_url": "https://gateway.pinata.cloud/ipfs/Qmdr8iJxe9kj7oTXCVu2uYbSpo12S1aZCuXinTFpDJDqjL",
-       "image":"ipfs://QmPbxeGcXhYQQNgsC6a36dDyYUcHgMLnGKnF8pVFmGsvqi",
-       "name": "OctoHedz #3"
+       "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+       "external_url": "https://gateway.pinata.cloud/ipfs/QmTwCSDHwXtBNK3pQwbPcwKT33L3bSwRLmoNxn7D3uoTgj",
+       "image":"https://gateway.pinata.cloud/ipfs/QmTwCSDHwXtBNK3pQwbPcwKT33L3bSwRLmoNxn7D3uoTgj",
+       "name": "OctoHedz #1"
+       "attributes": [ ... ], 
+
        
 },
 {
